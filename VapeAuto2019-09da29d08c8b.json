@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vapeauto2019",
+  "private_key_id": "09da29d08c8b7b9de051cf9c8d290b898f109142",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCP8NBS2b7T5QvN\nISogNpp9dSgENo0nRG1RVeSuKemFRkTCcUTsBbsLsHT7DgQn7jDIuU80tqnDqk8O\nhLdL4RCwf/DeRSzRV1FbLMk3aDr1RrWjDDV7RhCy8/SGe21bdc8MBr57cKWHOc/l\n8SKUFonk850rqlcDAtMQnoU7bQ//SDopHnPC3mc1nh5sltNC87BLYzWFZ9ES8D29\n3COt/sMbFvKVPPqxKTfk4eKKryXEEfpsA5Rsh9EORdkwwKL3CI7szPfs2UVhzCVI\nHNEop/WjKH7BI9iptylKGKr6l+c3qIzZwLTRfHtSYBPC/l5m1Xe5VSNpzTzriGkh\n3qSMkAijAgMBAAECggEABDdx5YNtxNJNtV12g567NC1QQJ4Ce4x/G/taqW7JNvds\ngI+wjQN2oRczDhRb3c7rTJiqb9O2sb3VoV9qPoWiJ1wlcmAaDysyKGwYRuW9mGgm\nXleMt4bsFU9H3Kqqn5vEtshPIIRCbRgt9Wv0xIbL1Pz9SoVWatxUfNpP8oI1jkJZ\npUZw4QfZBOgGDmCyTWROkPE+5w9vbbpPtGQP9JVG2oNj0k9axUF1fxNoz9sfSXUo\nAJ4aEi/zCpoHU+5q+HmWB8RbPSorSrSPkGDhZBQKl+P1BUasjnYlgYdoIh7jfol+\nsomDfxfVOdzcKNxBvUCvsT4phQgITA1Or2cemL+0RQKBgQDGAcXpFh6jbuwpuuAw\nwMZkpAkUpabutLVQ/AeJGsY19O8nGo89G89frSnDLpD1Lg2zKi+WuK79dTUh5iBG\nxLP6OreHYDJlsD01xLoQRwaTjBLi5aClaNi2ll83617LeskbLub1veuJxodcXcjw\nMFORm+gnQx5U7opl0+pkkALQDwKBgQC6GT6E1WlIr+jgcFzqA5iIW+0YXacVX3y3\nov4BdBkt5vCRUG3m7YcrpHl80krivxKB02HjqWYek0zGaMYnfsYfklzeBdSHK1gY\nTXo1XRg3DROqOkXF02j/bJi2wCWJKD04jAq/BIsOWEwZ6Gi16CH8nYAsgdyqmAlF\namHyzCEqLQKBgHpvZj02nENat1UmZLJAwWxBsgu+UnaP7v3gmZhBogaDKc34MlIK\n/DOhE43JIYE5tObwUvTTxgCblPsdHSAlSVSVMh7XcNJII9E3kAW4pWxe1N7QNoGR\nT0+3s7EULU2M4wWX/uA9S4Op6tFGfJVojIQg73A3pG3IAnPskacVFWgpAoGANSpv\nHP3nNTfkPPJ86PIcCqDQjIx85nNAKypqjLnBU8bNZYZnz3h+jG5RsuJVOJBD1kkw\nhxznKscEQQ6/xZrHOU/ULi3WOMOeSFsiFcrB10BqJNC/DDRIo+g/fL5KOvP/AX+o\ntkey/mclXqVx/L4Tr5rDenOjOi1zQJyS3Q2KUAUCgYB+tuG2o/oGVN5U0J/OS0aa\npN/np2T8uB6P8LMWYFoMqOYzCDAe/+Z4IfQI500PSfMUbpCgzYgtU9U7HHsXXOfH\n9CG3pxRyAQHtzxXIYeLoaxtmCs+lbBsc6KG3KOcYlUvTPUBmckDyyoC0HUbpKiAM\nydCcPiwpK4YMbCOGpr1sVA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vapeautoweb@vapeauto2019.iam.gserviceaccount.com",
+  "client_id": "108862949722510481930",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vapeautoweb%40vapeauto2019.iam.gserviceaccount.com"
+}
